@@ -1,0 +1,1 @@
+€ •]       Œ sklearn.ensemble._forest”Œ RandomForestClassifier”“”)”}”(Œ	estimator”Œ sklearn.tree._classes”Œ DecisionTreeClassifier”“”)”}”(Œ	criterion”Œ gini”Œ splitter”Œ best”Œ	max_depth”NŒ min_samples_split”K Œ min_samples_leaf”K Œ min_weight_fraction_leaf”G        Œ
