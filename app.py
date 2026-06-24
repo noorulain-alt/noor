@@ -4,7 +4,7 @@ import numpy as np
 
 # Load model
 with open("heart disease model .pkl", "rb") as file:
-    model = pickle.load(file)
+   heart disease model = pickle.load(file)
 
 st.title("Machine Learning Prediction App")
 
